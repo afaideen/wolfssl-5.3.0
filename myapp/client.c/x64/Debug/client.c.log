@@ -1,0 +1,2 @@
+﻿  client.c.cpp
+D:\wolfssl\wolfssl-5.3.0\wolfssl\ssl.h(33,10): fatal error C1083: Cannot open include file: 'wolfssl/wolfcrypt/settings.h': No such file or directory
