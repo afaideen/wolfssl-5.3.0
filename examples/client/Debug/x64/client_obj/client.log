@@ -1,2 +1,8 @@
-﻿  client.c
+﻿  client_test.c
+D:\wolfssl\wolfssl-5.3.0\examples\client\client_test.c(59,38): warning C4047: '=': 'wolfSSL_method_func' differs in levels of indirection from 'WOLFSSL_METHOD *'
+D:\wolfssl\wolfssl-5.3.0\examples\client\client_test.c(63,35): warning C4047: 'function': 'WOLFSSL_METHOD *' differs in levels of indirection from 'wolfSSL_method_func'
+D:\wolfssl\wolfssl-5.3.0\examples\client\client_test.c(63,29): warning C4024: 'wolfSSL_CTX_new': different types for formal and actual parameter 1
+D:\wolfssl\wolfssl-5.3.0\examples\client\client_test.c(122,45): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\wolfssl\wolfssl-5.3.0\examples\client\client_test.c(20,11): warning C4101: 'conn': unreferenced local variable
+D:\wolfssl\wolfssl-5.3.0\examples\client\client_test.c(17,22): warning C4101: 'servAddr': unreferenced local variable
   client.vcxproj -> D:\wolfssl\wolfssl-5.3.0\Debug\x64\client.exe
